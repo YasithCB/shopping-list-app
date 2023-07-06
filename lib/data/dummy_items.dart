@@ -1,7 +1,7 @@
 import 'package:shopping_list/data/categories.dart';
 
-import '../model/category.dart';
-import '../model/grocery_item.dart';
+import '../models/category.dart';
+import '../models/grocery_item.dart';
 
 final groceryItems = [
   GroceryItem(
